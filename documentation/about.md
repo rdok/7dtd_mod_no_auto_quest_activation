@@ -4,7 +4,7 @@
 > Disables the auto tracking & notification of new quests.  
 > **EAC:** This mod uses custom code that is not compatible with Easy Anti-Cheat.
  
-[![No Auto Quest Activation](https://raw.githubusercontent.com/rdok/7dtd_mod_no_auto_quest_activation/main/documentation/showcase.jpg)](https://www.nexusmods.com/7daystodie/mods/5925)
+[![No Auto Quest Activation](https://raw.githubusercontent.com/rdok/7dtd_mod_no_auto_quest_activation/main/documentation/showcase_v2.jpg)](https://www.nexusmods.com/7daystodie/mods/5925)
 
 ## Features
 - Disables the auto tracking when accepting a new quest.
