@@ -15,3 +15,4 @@
 ## Changelog
 #### v1.0.0 26-Aug-24
 - feat: Disables the auto tracking & notification of new quests.  
+
